@@ -1,0 +1,14 @@
+C:\Users\LENOVO\RiderProjects\multiplicaion de 2 martrices\multiplicaion de 2 martrices\bin\Debug\net8.0\multiplicaion de 2 martrices.exe
+C:\Users\LENOVO\RiderProjects\multiplicaion de 2 martrices\multiplicaion de 2 martrices\bin\Debug\net8.0\multiplicaion de 2 martrices.deps.json
+C:\Users\LENOVO\RiderProjects\multiplicaion de 2 martrices\multiplicaion de 2 martrices\bin\Debug\net8.0\multiplicaion de 2 martrices.runtimeconfig.json
+C:\Users\LENOVO\RiderProjects\multiplicaion de 2 martrices\multiplicaion de 2 martrices\bin\Debug\net8.0\multiplicaion de 2 martrices.dll
+C:\Users\LENOVO\RiderProjects\multiplicaion de 2 martrices\multiplicaion de 2 martrices\bin\Debug\net8.0\multiplicaion de 2 martrices.pdb
+C:\Users\LENOVO\RiderProjects\multiplicaion de 2 martrices\multiplicaion de 2 martrices\obj\Debug\net8.0\multiplicaion de 2 martrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\RiderProjects\multiplicaion de 2 martrices\multiplicaion de 2 martrices\obj\Debug\net8.0\multiplicaion de 2 martrices.AssemblyInfoInputs.cache
+C:\Users\LENOVO\RiderProjects\multiplicaion de 2 martrices\multiplicaion de 2 martrices\obj\Debug\net8.0\multiplicaion de 2 martrices.AssemblyInfo.cs
+C:\Users\LENOVO\RiderProjects\multiplicaion de 2 martrices\multiplicaion de 2 martrices\obj\Debug\net8.0\multiplicaion de 2 martrices.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\RiderProjects\multiplicaion de 2 martrices\multiplicaion de 2 martrices\obj\Debug\net8.0\multiplicaion de 2 martrices.dll
+C:\Users\LENOVO\RiderProjects\multiplicaion de 2 martrices\multiplicaion de 2 martrices\obj\Debug\net8.0\refint\multiplicaion de 2 martrices.dll
+C:\Users\LENOVO\RiderProjects\multiplicaion de 2 martrices\multiplicaion de 2 martrices\obj\Debug\net8.0\multiplicaion de 2 martrices.pdb
+C:\Users\LENOVO\RiderProjects\multiplicaion de 2 martrices\multiplicaion de 2 martrices\obj\Debug\net8.0\multiplicaion de 2 martrices.genruntimeconfig.cache
+C:\Users\LENOVO\RiderProjects\multiplicaion de 2 martrices\multiplicaion de 2 martrices\obj\Debug\net8.0\ref\multiplicaion de 2 martrices.dll
